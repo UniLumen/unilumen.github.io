@@ -1,0 +1,52 @@
+{
+    "courses": [
+        {
+            "code": "DS01",
+            "creditHours": 4,
+            "doctors": [
+                "{7cb0b6c6-1e29-47a7-9b91-3d1c3fa19247}"
+            ],
+            "hasLab": true,
+            "hasLecture": true,
+            "hasTutorial": false,
+            "id": "{4b23e84e-8cfb-4151-a1df-f2bf68c80706}",
+            "lectures": [
+                {
+                    "dateTime": "",
+                    "group": 1,
+                    "locationId": "{a5a84a8d-4b3e-4b26-b1a0-fb0708c8c799}"
+                }
+            ],
+            "name": "Data Structure",
+            "sections": [
+                {
+                    "dateTime": "",
+                    "locationId": "{a5a84a8d-4b3e-4b26-b1a0-fb0708c8c799}",
+                    "number": 5,
+                    "taId": "{ec86b9d9-5a76-472e-96b2-97a899aa06fd}"
+                }
+            ]
+        }
+    ],
+    "doctors": [
+        {
+            "email": "doc@test.com",
+            "id": "{7cb0b6c6-1e29-47a7-9b91-3d1c3fa19247}",
+            "name": "Test Doctor"
+        }
+    ],
+    "locations": [
+        {
+            "description": "description",
+            "id": "{a5a84a8d-4b3e-4b26-b1a0-fb0708c8c799}",
+            "name": "Test Location"
+        }
+    ],
+    "tas": [
+        {
+            "email": "ta@test.com",
+            "id": "{ec86b9d9-5a76-472e-96b2-97a899aa06fd}",
+            "name": "Test Ta"
+        }
+    ]
+}
